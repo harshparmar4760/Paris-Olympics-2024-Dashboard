@@ -54,9 +54,6 @@ for file in csv_files:
     dataframes[table_name] = df
 
 
-
-
-
 # Import necessary libraries
 import pandas as pd
 import os
